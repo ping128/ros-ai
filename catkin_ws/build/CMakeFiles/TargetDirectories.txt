@@ -1,3 +1,6 @@
+/home/ping128/ros-ai/catkin_ws/build/beginner_tutorial/CMakeFiles/beginner_tutorial_gencpp.dir
+/home/ping128/ros-ai/catkin_ws/build/beginner_tutorial/CMakeFiles/beginner_tutorial_genlisp.dir
+/home/ping128/ros-ai/catkin_ws/build/beginner_tutorial/CMakeFiles/beginner_tutorial_genpy.dir
 /home/ping128/ros-ai/catkin_ws/build/CMakeFiles/clean_test_results.dir
 /home/ping128/ros-ai/catkin_ws/build/CMakeFiles/doxygen.dir
 /home/ping128/ros-ai/catkin_ws/build/gtest/CMakeFiles/gtest.dir
