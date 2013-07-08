@@ -1,0 +1,6 @@
+Name: beginner_tutorial
+Description: Description of beginner_tutorial
+Version: 0.0.0
+Cflags: -I/home/ping128/ros-ai/catkin_ws/install/include
+Libs: -L/home/ping128/ros-ai/catkin_ws/install/lib 
+Requires: 

@@ -227,10 +227,10 @@ _CATKIN_GTEST_INCLUDE:FILEPATH=_CATKIN_GTEST_INCLUDE-NOTFOUND
 _CATKIN_GTEST_SRC:FILEPATH=/usr/src/gtest/src/gtest.cc
 
 //Value Computed by CMake
-beginner_tutorial_BINARY_DIR:STATIC=/home/ping128/ros-ai/catkin_ws/build/beginner_tutorial
+beginner_tutorial_BINARY_DIR:STATIC=/home/ping128/ros-ai/catkin_ws/build/beginner_tutorials
 
 //Value Computed by CMake
-beginner_tutorial_SOURCE_DIR:STATIC=/home/ping128/ros-ai/catkin_ws/src/beginner_tutorial
+beginner_tutorial_SOURCE_DIR:STATIC=/home/ping128/ros-ai/catkin_ws/src/beginner_tutorials
 
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/groovy/share/catkin/cmake
